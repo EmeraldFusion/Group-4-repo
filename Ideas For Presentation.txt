@@ -1,3 +1,7 @@
 List for our project ideas:
 
-1.
+1. (Nick) - A door lock that is either remote activated via an app on your phone, or
+		A door lock that is fingerprint activated, this is to negate the need for a key and fumbling about to open the door or even worse losing your key.
+
+2. (Nick) - [Idea I had while driving] Those relfectors on the road on the ground in between lines, 
+		make it to where they light up on sensing liquid or lack of lighting.
