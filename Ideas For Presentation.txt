@@ -5,3 +5,5 @@ List for our project ideas:
 
 2. (Nick) - [Idea I had while driving] Those relfectors on the road on the ground in between lines, 
 		make it to where they light up on sensing liquid or lack of lighting.
+
+3. (Jeremy) Use the sound sensor from the previous class to make a collison detector. Would most likely show how close to an object it is with a GUI on the RPi.
