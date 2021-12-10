@@ -6,10 +6,10 @@ List for our project ideas:
 2. (Nick) - [Idea I had while driving] Those relfectors on the road on the ground in between lines, 
 		make it to where they light up on sensing liquid or lack of lighting.
 
-3. (Jeremy) Use the sound sensor from the previous class to make a collison detector. Would most likely show how close to an object it is with a GUI on the RPi.
+3. (Jeremy) Use the sound sensor from the previous class to make a collison detector. Would show how close to an object the sensor is with a GUI on the RPi as well as some LEDs to show how close to something it is (green means far away, yellow means getting close, red means imminent impact).
 
-4. (Jeremy) Motion detection device. Detects if a person or object moves into the path of either a laser or the sonic sensor, and possibly says the distance from the sensor the object passed by.
+4. (Jeremy) Motion detection device. Detects if a person or object moves into the path of (either a laser or the sonic sensor) the sensor, and displays the distance from the sensor the object passed by.
 
-5. (Dillan) A sensor that detects the BPM of a song and finds another song with same or similiar BPM
+5. (Dillan) A sensor that detects the BPM (displays it on a GUI) of a song and finds another song with same or similiar BPM (maybe display the name of the new song).
 
 6. (Dillan) A text based adventure game.
