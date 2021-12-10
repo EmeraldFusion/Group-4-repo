@@ -1,0 +1,13 @@
+Okay, so, we are most likely doing the car sensor idea.
+
+We will probably need 3 sensors, 2 for the sides and one or more for the front.
+
+It will need lights to show what the drone car is doing.
+
+We might be able to connect the radio transmitters from that idea to the drone so we dont have to use arduino. The code would be sent through thr radio to the servos and the sensors would send to the RPi.
+
+We can probably make a manual mode and an auto mode so the user can drive and have the sensors tell them if they will collide. Also have the auto version to complete the maze like we discussed.
+
+Any other things we need or could possibly add?
+
+-------------------------------------------------------
