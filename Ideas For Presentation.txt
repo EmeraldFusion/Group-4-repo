@@ -15,3 +15,5 @@ List for our project ideas:
 5. (Dillan) A sensor that detects the BPM (displays it on a GUI) of a song and finds another song with same or similiar BPM (maybe display the name of the new song).
 
 6. (Dillan) A text based adventure game.
+
+7. (Jeremy) Using radio transmitters and two RPi's, keep track of how many people use the main stairs in the IESB (both goin up and going down, it doent matter)
