@@ -16,4 +16,4 @@ List for our project ideas:
 
 6. (Dillan) A text based adventure game.
 
-7. (Jeremy) Using radio transmitters and two RPi's, keep track of how many people use the main stairs in the IESB (both goin up and going down, it doent matter)
+7. (Dillan/Jeremy) Using radio transmitters and two RPi's, keep track of how many people use the main stairs in the IESB (both goin up and going down, it doent matter)
