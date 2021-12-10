@@ -9,3 +9,7 @@ List for our project ideas:
 3. (Jeremy) Use the sound sensor from the previous class to make a collison detector. Would most likely show how close to an object it is with a GUI on the RPi.
 
 4. (Jeremy) Motion detection device. Detects if a person or object moves into the path of either a laser or the sonic sensor, and possibly says the distance from the sensor the object passed by.
+
+5. (Dillan) A sensor that detects the BPM of a song and finds another song with same or similiar BPM
+
+6. (Dillan) A text based adventure game.
