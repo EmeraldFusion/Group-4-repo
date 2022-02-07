@@ -17,7 +17,7 @@ def Auto():
     AutWin.geometry("800x600")
     
     #Create a button on the main window to close the mode
-    AutB = Button(gooe, text="Close Auto", command=lambda: AutWin.destroy).pack()
+    AutB = Button(gooe, text="Close Auto", command=AutWin.destroy).pack()
 
     #simple labels for the new window
     lbA=Label(AutWin, text="Chiro v3 (AUTOPILOT MODE)", font=("Times New Roman", 20))
@@ -34,7 +34,7 @@ def Manual():
     ManWin.geometry("800x600")
     
     #Create a button on the main window to close the mode
-    ManB = Button(gooe, text="Close Manual", command=lambda: ManWin.destroy).pack()
+    ManB = Button(gooe, text="Close Manual", command=ManWin.destroy).pack()
     
     #simple label for the new window
     lbM=Label(ManWin, text="Chiro v3 (MANUAL MODE)", fg='black', font=("Times New Roman", 20))
